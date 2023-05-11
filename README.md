@@ -1,6 +1,6 @@
 <h1>Hi, I'm Carlos! </h1>
 
-<h2>👨‍💻 IT Labs Projects:</h2>
+<h2>👨‍💻 IT Lab Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/carloscyberlab/ActiveDirectoryLab)
 - [Help Desk Practice Lab](https://github.com/carloscyberlab/Help-Desk-Lab)
